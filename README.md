@@ -40,6 +40,6 @@ I also created tools for expressing and working with music:
 
 ## Background
 
-I founded **Cenacle Research**, a bootstrapped research-services business, and have worked at **Microsoft, Oracle, Automation Anywhere, and OfficeBeacon** across engineering and technology leadership.
+I founded **Cenacle Research**, a bootstrapped research-services business, and have worked at **Microsoft, Oracle, and Automation Anywhere** across engineering and technology leadership.
 
 More about my work: [gk.palem.in](https://gk.palem.in/).
