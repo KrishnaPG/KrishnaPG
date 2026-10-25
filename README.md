@@ -10,6 +10,7 @@ I build software that turns domain knowledge into usable systems. My work spans 
 
 | Project | What it explores |
 | --- | --- |
+| [Clinical Decision Support System (CDSS)](https://youtu.be/j8LiEA8rqHc0)    |  AI in healthcare for personalized medicine based on longitudinal EHR context, to prevent medication errors, adverse drug reactions (ADR) with traceable evidence and FHIR/HL7/DICOM-aligned integration patterns. |
 | [LLM prompt tester](https://github.com/KrishnaPG/llm-prompt-tester) | Testing prompt responses across models and prompt versions, with configurable validation and logging. |
 | [ZeroMQ task dispatcher](https://github.com/KrishnaPG/zmq-task-dispatcher) | Concurrent request processing and asynchronous messaging in C++23. |
 | [oc3](https://github.com/KrishnaPG/oc3) | Octree spatial indexing with Three.js and React Three Fiber integration. |
